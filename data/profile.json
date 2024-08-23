@@ -1,0 +1,72 @@
+{
+    "name": "Germano Augusto F Barbosa",
+    "photo": "https://avatars.githubusercontent.com/u/124475220?s=400&u=e732a38c9ad60ad5b20db4416da9d40283d10775&v=4",
+    "job": "Desenvolvedor FullStack Estagiário na Bravo Logística",
+    "location": "Uberaba - MG",
+    "phone": "(34) 9 9672-4348",
+    "email": "freitasgermano8@gmail.com",
+    "skills": {
+      "hardSkills": [
+        {
+          "name": "Nodejs",
+          "logo": "https://raw.githubusercontent.com/portifolio/data/imgs/nodejs.png"
+        },
+        {
+          "name": "Java Script",
+          "logo": "https://raw.githubusercontent.com/portifolio/data/imgs/js.png"
+        },
+        {
+          "name": "Java",
+          "logo": "https://raw.githubusercontent.com/portifolio/data/imgs/java.png"
+        },
+        {
+          "name": "HTML",
+          "logo": "https://raw.githubusercontent.com/portifolio/data/imgs/html.png"
+        },
+        {
+          "name": "CSS",
+          "logo": "https://raw.githubusercontent.com/portifolio/data/imgs/css.png"
+        },
+        {
+          "name": "Angular",
+          "logo": "https://raw.githubusercontent.com/portifolio/data/imgs/angular.png"
+        },
+        {
+          "name": "VSCode",
+          "logo": "https://raw.githubusercontent.com/portifolio/data/imgs/vscode.png"
+        },
+        {
+          "name": "Git",
+          "logo": "https://raw.githubusercontent.com/portifolio/data/imgs/git.png"
+        },
+        {
+          "name": "MySql",
+          "logo": "https://raw.githubusercontent.com/portifolio/data/imgs/mysql.png"
+        }
+      ],
+      "softSkills": [
+        "Empatia",
+        "Trabalho em equipe",
+        "Flexibilidade",
+        "Organização"
+      ]
+    },
+    "languages": [
+      "Português BR",
+      "Inglês (avançado)"
+    ],
+    "portifolio": [
+      {
+        "name": "Curso feito na DIO para a criação de uma Pokedex",
+        "url": "https://github.com/GermanoAugustoFB/Pokedex",
+        "github": true
+      }
+    ],
+    "professionalExperience": [
+      {
+        "name": "Estágio Desenvolvedor FullStack / Bravo Logística",
+        "period": "2023 - até o momento",
+        "description": "É um prazer trabalhar/aprender ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      }
+    ]
+  }
